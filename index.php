@@ -104,9 +104,9 @@ My nationality is Kyrgyz.My group is T-CSC-19.Its all</p>
 <section>
   <nav>
     <ul>
-      <li><a href="https://web.whatsapp.com/%F0%9F%8C%90/ru">WhatsApp</a></li>
-      <li><a href="https://www.instagram.com/?hl=ru">Instagram</a></li>
-      <li><a href="https://web.telegram.org/">Telgram</a></li>
+      <li><a href="https://instagram.com/_kalyk_01?r=nametag">Instagram</a></li>
+      <li><a href="https://whatsapp.com/di/">WhatsApp</a></li>
+      <li><a href="https://t.me/kalyk_01">Telgram</a></li>
     </ul>
   </nav>
 
