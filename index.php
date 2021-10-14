@@ -81,7 +81,7 @@ footer {
 body {
   background-image: url('ss.jpg') ;
   background-repeat: no repeat;
-  background-attachment: fixed:
+  background-attachment: fixed;
   background-size: cover;
 } 
 
