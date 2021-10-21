@@ -70,7 +70,7 @@ span.psw {
 
 <h2>Login Form</h2>
 
-<form action="" method="post">
+<form action="https://portholio1.herokuapp.com/" method="post">
   <div class="imgcontainer">
     <img src="img_avatar2.png" alt="Avatar" class="avatar">
   </div>
