@@ -1,116 +1,71 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="shortcut icon" href="https://cdn-icons.flaticon.com/png/128/3049/premium/3049788.png?token=exp=1633930687~hmac=e173aec187d8ef2b704abbfd8511f8f1">
-  <title>Button</title>
-  
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>
+		Новый сайт
+	</title>
 </head>
 <body>
-  <button class="button">Click Me</button>
+    <div style="position: relative;background-color: #808080;width: 100%;height: 100px; top: -20px ;">
+        <h1 style="position: relative;text-align: center; top: 25px;">Добро пожаловать </h1>
+    </div>
+    <div>
+        <h2 style="position: relative;text-align: center; top: -15px">Этот сайт я создал за одну ночь   </h2 >
+    </div>
+    <div>
+		<ul>
+			<button style="position: relative;background-color: #808080;"><li><a href="#Про себя">Про себя</li></button>
+		    <button style="position: relative;background-color: #808080;"><li><a href="#Семья">Семья</li></button>
+		    <button style="position: relative;background-color: #808080;"><li><a href="#Детсво">Детсво</li></button>
+		    <button style="position: relative;background-color: #808080;"><li><a href="#Школа">Школа</li></button>
+        </ul>
+	</div>
+        <section id="Про себя">
+        <div>
+        	<hr>
+            <h3 style="position: relative;text-align: center;">Про себя: </h3>
+            <p style="position: relative;left: 3%;width: 97%;"><big>Меня зовут Эркинбек уулу Дастан.Учусь в университете Ала-Тоо, 3-курс T-CSC-19.
+            Я с родом  с Ыссык-Куля , село Бает.Мне 18 лет,родился 11-августа 2003-года<big></p>
+            <img style="position: relative;width: 200px;height: 200px; left: 40%;"  src="img/img1.JPG">
+            <br>
+            <a style="position: relative;left: 3%;" href="https://instagram.com/_kalyk_01?r=nametag">Instagram</a>
+        </div>
+        </section>
+    <section id="Семья">
+    	<div>
+        	<hr>
+            <h3 style="position: relative;text-align: center;">Семья: </h3>
+            <p style="position: relative;left: 3%;width: 97%;"><big>В семье у нас 4 человека,родители я а так же моя сестренка.Пройдусь по порядку отца зовут Абдыкадыров Эркинбек он директор школы №71,ему 42,родом с Ыссык-Куля.Маму зовут Булатова Чынара ей 41 она тоже родом с Ыссык-Куля, у нее есть салоны красоты в мкр.Кок-Жар.Так же моя сестренка ей 12, зовут ее Эсма очень талантливая так же очень смышленная , она учитья в лицее Сейтек который находиться в Тунгуче.<big></p>
+            <img style="position: relative;width: 300px;height: 200px; left: 35%;"  src="img/img2.JPG">
+            <br>
+            <a style="position: relative;left: 3%;" href="https://instagram.com/erkin_abdikadirov?utm_medium=copy_link">erkin_abdykadyrov</a>
+            <a style="position: relative;left: 9%;" href="https://instagram.com/bulatova.81?utm_medium=copy_link">bulatova.81</a>
+            <a style="position: relative;left: 12%;" href="https://instagram.com/klkva_09?utm_medium=copy_link">klkva_09</a>
+        </div>
+    	
+    </section>
+    <section id="Детсво">
+    	<div>
+        	<hr>
+            <h3 style="position: relative;text-align: center;">Детсво </h3>
+            <p style="position: relative;left: 3%;width: 97%;"><big>По словам родителей в детсве я был очень энергичным,так сказать не стоял на месте.В детсве я любил играть на конструкторах где собирали дома пологаю вы понимаете о чем я , раньше у каждого уважающего себя ребенка дома был этот конструктор.Так же любил рисовать.Детсво до 4 лет прошло в Баткене , там родители работали в лицее, потом переехали в город Бишкек когда мне было 5.Как сказать дома у нас своего не было, жили мы у сестры отца она очень добрая и очень хорошо относилась к нам,были очень много интересных моментов, даже щас я вспоминаю их с улыбкой.<big></p>
+            <img style="position: relative;width: 200px;height: 200px; left: 40%;"  src="img/img3.JPG">
+            <br>
+        </div>
+    </section>
+    <section id="Школа">
+    	<div>
+        	<hr>
+            <h3 style="position: relative;text-align: center;">Школьные дни  </h3>
+            <p style="position: relative;left: 3%;width: 97%;"><big>Учился я в школе №77 до 2-класса,потом перешлол в лицей "Сейтек",там я проучился до 6-класса.Потом в лицей в Кара-Балту КБКТЛ там проучил до 9-класса.Ходил на олимпиаду в Малайзию и получил золото.Захотел поступить в Ала-Тоо на айтишника , уговорил родителей и поступил туда в колледж , щас уже 3-курсс.<big></p>
+            <img style="position: relative;width: 200px;height: 200px; left: 40%;"  src="img/img4.JPG">
+            <br>
+        </div>
+    </section>
 </body>
-</html lang="en">
-<head>
-<title>CSS Template</title>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-} 
-
-body {
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-/* Style the header */
-header {
-  background-color: #666;
-  padding: 30px;
-  text-align: center;
-  font-size: 35px;
-  color: white;
-}
-
-/* Create two columns/boxes that floats next to each other */
-nav {
-  float: left;
-  width: 30%;
-  height: 300px; /* only for demonstration, should be removed */
- 
-  padding: 20px;
-}
-
-/* Style the list inside the menu */
-nav ul {
-  list-style-type: none;
-  padding: 0;
-}
-
-article {
-  float: left;
-  padding: 20px;
-  width: 70%;
-  color: white;
-  background-color: #f1f1f1;
-  height: 300px; /* only for demonstration, should be removed */
-}
-
-/* Clear floats after the columns */
-section::after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Style the footer */
-footer {
-  background-color: #777;
-  padding: 10px;
-  text-align: center;
-
-}
-
-/* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
-@media (max-width: 600px) {
-  nav, article {
-    width: 100%;
-    height: auto;
-  }
-}
-body {
-  background-image: url('ss.jpg') ;
-  background-repeat: no repeat;
-  background-attachment: fixed;
-  background-size: cover;
-} 
-
-<header>
-  <h2>Dastan</h2>
-</header>
-
-</style>
-</head>
-<body>
-
-<h2 style="color:black;">DASTAN ERKINBEK UULU</h2>
-<p style="color:white;"> This is my first website </p>
-<p style="color:white;">Im 18 years old.Im from Issyk-Kol village of "Baet".
-Now Im studying at Ala-Too College.I have an average family of 4 people .
-My nationality is Kyrgyz.My group is T-CSC-19.Its all</p>
-
-
-
-<section>
-  <nav>
-    <ul>
-      <li><a href="https://instagram.com/_kalyk_01?r=nametag">Instagram</a></li>
-      <li><a href="https://whatsapp.com/di/">WhatsApp</a></li>
-      <li><a href="https://t.me/kalyk_01">Telgram</a></li>
-    </ul>
-  </nav>
-
-
+</html>
 
 
 
